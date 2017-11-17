@@ -1,0 +1,19 @@
+td {
+height:100px;
+
+}
+th {
+text-align:left
+}
+table {
+width: 90%;
+font-size: 16pt;
+padding-left:150px;
+
+}
+ul {
+list-style-position: inside;
+}
+p {
+padding-left:10px
+}
